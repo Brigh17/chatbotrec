@@ -1,0 +1,6 @@
+streamlit
+nltk
+speechrecognition
+pyttsx3
+sentence-transformers
+torch
